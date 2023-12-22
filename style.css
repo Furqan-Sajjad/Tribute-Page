@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: antiquewhite;
+}
+#title{
+    text-align: center;
+    text-shadow: 8px 1px 2px black;
+    color: white;
+    margin: 12px auto;
+    font-size: 40px;
+    font-style: italic;
+}
+#main{
+    width: 90vw;
+    margin: 1.25rem auto;
+}
+#img-div{
+    width: 80%;
+    margin: 12px auto;
+    height: 390px;
+}
+#image{
+    display: block;
+    margin: 20px auto;
+    max-width:"93.75rem";
+    height:"39.5rem";
+}
+#tribute-info{
+    margin: 300px 12px;
+}
